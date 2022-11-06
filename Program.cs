@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Module3HW7;
 
-Console.WriteLine("Hello, World!");
+var starter = new Starter();
+
+await starter.Run();

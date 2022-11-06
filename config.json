@@ -1,0 +1,5 @@
+{
+  "BackupPath": "backup",
+  "BackupStep": 10,
+  "LogsAmount": 50
+}
